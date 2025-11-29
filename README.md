@@ -29,8 +29,7 @@ This repository contains a demonstration notebook and scripts to build a **Recom
 --------------------------------------------------------
    ## output
 
-![Image](https://github.com/user-attachments/assets/b628e181-4989-458e-a1ef-77caddf8b748)  
-
+![Image](https://github.com/user-attachments/assets/02e4c076-1582-4d54-9c09-053a29064e92)
 
 -------------------------------------------------------------------
 
