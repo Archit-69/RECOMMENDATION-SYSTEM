@@ -1,4 +1,4 @@
-# CODTECH Recommendation System (Task 4)
+#  Recommendation System 
 
 This repository contains a demonstration notebook and scripts to build a **Recommendation System** using **Collaborative Filtering (Matrix Factorization / SVD)** on the MovieLens 100k dataset.
 
@@ -15,19 +15,35 @@ This repository contains a demonstration notebook and scripts to build a **Recom
    python -m venv venv
    source venv/bin/activate   # on Windows use `venv\Scripts\activate`
    pip install -r requirements.txt
-   ```
+      ```
+   -----------------------------------------------------
 2. Train model:
    ```bash
    python src/train.py --model_output models/svd_model.pkl
-   ```
+    ```
+   -------------------------------------------------------
 3. Run Streamlit app (optional):
    ```bash
    streamlit run app.py
    ```
+--------------------------------------------------------
+   ## output
 
+    https://github.com/Archit-69/RECOMMENDATION-SYSTEM/issues/1#issue-3676714401
+  -------------------------------------------------------------------
+
+   
 ## Notes
 - This repo uses the `surprise` library and the built-in `ml-100k` MovieLens dataset.
 - The notebook and scripts are ready to be pushed to GitHub as a complete project for the CODTECH internship task.
 
-## License
-MIT License — feel free to adapt for your submission.
+-------------------------------------------------------------------------------------------------
+
+## Author
+
+* Company: CODTECH IT SOLUTIONS
+* Name: Archit kapre
+* Intern ID:CT04DR999
+* Domain: Machine learning 
+* Duration: 4 weeks
+* Mentor: Neela Santosh
