@@ -29,8 +29,10 @@ This repository contains a demonstration notebook and scripts to build a **Recom
 --------------------------------------------------------
    ## output
 
-    https://github.com/Archit-69/RECOMMENDATION-SYSTEM/issues/1#issue-3676714401
-  -------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/b628e181-4989-458e-a1ef-77caddf8b748)  
+
+
+-------------------------------------------------------------------
 
    
 ## Notes
